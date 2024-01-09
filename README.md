@@ -1,3 +1,3 @@
 # linguaggio C++
 
-[link text](article-name.md)
+[Struttura di un programma C++](struttura_programma.md)
